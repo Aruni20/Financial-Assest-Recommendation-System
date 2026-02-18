@@ -2,8 +2,8 @@
 ### A Multi-Modal Approach Combining Collaborative Filtering, Content Analysis, and Demographic Profiling for Retail Investors
 
 ## 🚀 Live Demo
-**[Click Here to Launch App](https://financial-asset-recommendation-system.streamlit.app/)**
-*(Note: If the link is not yet active, please deploy the app on Streamlit Community Cloud and update this URL)*
+**[Click Here to see Live App](https://financial-asset-recommendation-system.streamlit.app/)**
+
 
 ## Overview
 **Can we engineer a financial advisor that balances historical trading patterns, asset fundamentals, and individual risk tolerance?**
